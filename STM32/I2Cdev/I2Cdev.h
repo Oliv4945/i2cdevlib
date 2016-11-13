@@ -41,7 +41,7 @@ THE SOFTWARE.
 //#include "stm32f1xx_hal.h"
 //#include "stm32f2xx_hal.h"
 //#include "stm32f3xx_hal.h"
-#include "stm32f4xx_hal.h"
+#include "stm32l0xx_hal.h"
 
 typedef int bool;
 #define true 1
